@@ -1,0 +1,30 @@
+{
+  "name": "paymaya-integration",
+  "version": "1.0.1",
+  "description": "PayMaya payment system integration for Node.js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paymaya",
+    "payment",
+    "gateway",
+    "integration",
+    "nodejs"
+  ],
+  "author": {
+    "name": "FastUptime",
+    "email": "info@speedsmm.com",
+    "url": "https://github.com/fastuptime"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fastuptime/Paymaya_NodeJS_Integration"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "express": "^4.18.2"
+  }
+}
