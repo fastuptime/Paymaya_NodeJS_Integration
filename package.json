@@ -1,6 +1,6 @@
 {
   "name": "paymaya-integration",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "PayMaya payment system integration for Node.js applications",
   "main": "index.js",
   "scripts": {
